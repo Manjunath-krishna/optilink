@@ -1,0 +1,10 @@
+x pon port
+y onu id
+
+1.3.6.1.4.1.34592.1.3.4.1.1.13.1.x.y onu distance 
+1.3.6.1.4.1.34592.1.3.4.1.1.5.1.x.y hardware version
+1.3.6.1.4.1.34592.1.3.4.1.1.6.1.x.y firmware version
+1.3.6.1.4.1.34592.1.3.4.1.1.6.1.x.y onu mac address
+.34 decode
+.36 return rx power need to find match function
+.37 retuns tx power need to convert value to redable power
