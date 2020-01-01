@@ -1,5 +1,8 @@
+Cdata olt and onus 
 
-find way to get onu discription
+They do not pass onu descripton as its not stored in firmware and only stored in web serve, we can still get them using curl
+url/cgi/login.php?s
+
 x pon port
 y onu id
 ====================================================
