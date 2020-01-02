@@ -32,7 +32,7 @@ y onu id
 vlaue from olt is unusable we need to convert using forumale below make sure you do not pass 0<===
 (rx = (10*(log(rx power)/log(10)))-40 )
 ====================================================
-1.3.6.1.4.1.34592.1.3.4.1.1.36.1.x.y retuns tx power 
+1.3.6.1.4.1.34592.1.3.4.1.1.37.1.x.y retuns tx power 
 vlaue from olt is unusable we need to convert using forumale below make sure you do not pass 0<===
 (tx = (10*(log(tx power)/log(10)))-40 )
 ====================================================
